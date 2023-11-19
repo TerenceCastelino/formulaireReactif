@@ -1,0 +1,31 @@
+section{
+    border: 3px solid black;
+    border-radius: 30px;
+    background: #27262672;
+    padding: 35px;
+    margin: 15px;
+}
+
+li{
+    font-size: 1rem;
+    margin-top: 15px;
+    width: 75%;
+}
+img{
+
+    margin: 15px;
+    width: 45%;
+}
+p{
+    margin-top: 55px;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.flexbox{
+
+    display: flex;
+    justify-content: space-between;
+    img{
+        width: 70%;
+    }
+}
